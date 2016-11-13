@@ -1,7 +1,7 @@
 # drupal
 1. coba
-3. coba lagi
-4. terus semangat ali banananana
-5. yaaaaa
-6. cus fuhy
-7. OK
+2. coba lagi
+3. terus semangat ali banananana
+4. yaaaaa
+5. cus fuhy
+6. OK
